@@ -11,9 +11,6 @@ htmlcov/
 coverage.xml
 .pytest_cache/
 
-# poetry
-poetry.lock
-
 # Environments
 .env
 
