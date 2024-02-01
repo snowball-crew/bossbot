@@ -12,6 +12,7 @@ ruff = "^0.1.15"
 pre-commit = "^3.6.0"
 python-dotenv = "^1.0.1"
 mypy = "^1.8.0"
+sqlalchemy = "^2.0.25"
 
 
 [build-system]
