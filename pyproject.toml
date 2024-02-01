@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "bossbot"
+version = "0.1.0"
+description = "BossBot is watching YOU..."
+authors = ["goddessana <twicegoddessana1229@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+discord = "^2.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

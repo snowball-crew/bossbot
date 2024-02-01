@@ -1,0 +1,30 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+.pytest_cache/
+
+# poetry
+poetry.lock
+
+# Environments
+.env
+
+# mypy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+### Python Patch ###
+poetry.toml
+
+# ruff
+.ruff_cache/
